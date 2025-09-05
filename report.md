@@ -1,13 +1,13 @@
-# Report
+eww# Report
 
 ## Part 1
 
 For part 1, Try splitting into pairs within your group and each choose a model to consider, then after a few minutes regroup and explain your results to each other. Please refer to the book if you are unsure about any terms.
 
 The question below refers to the 4 examples in Part 1 of the notebook.
-
+eeee
 **1.1 Classify the models in the examples using the categories in the textbook. Please provide an explanation of your choice.** 
-
+wwwww
 **1.2 Place each model on the tradeoff triangle (shown below) and provide an explanation of your choice.**
 
 ![triangle](https://files.mude.citg.tudelft.nl/triangle.jpg)
