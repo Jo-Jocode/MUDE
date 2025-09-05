@@ -6,8 +6,7 @@ For part 1, Try splitting into pairs within your group and each choose a model t
 
 The question below refers to the 4 examples in Part 1 of the notebook.
 
-**1.1 Classify the models in the examples using the categories in the textbook. Please provide an explanation of your choice.**
-TEST 
+**1.1 Classify the models in the examples using the categories in the textbook. Please provide an explanation of your choice.** 
 
 **1.2 Place each model on the tradeoff triangle (shown below) and provide an explanation of your choice.**
 
